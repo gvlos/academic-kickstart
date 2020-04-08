@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: The most intriguing aspect of AI is human intelligence
+bio: Master Student in Computer Science @ University of Genoa, Italy
 
 interests:
 - Artificial Intelligence
@@ -59,8 +59,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Master Student in Computer Science at [University of Genoa](https://unige.it/en/). My greatest ambition is to work on the science and the engineering of intelligence. To me, the most intriguing aspect of AI is human intelligence. My research interests are focused on recent advances in cognition models based on grid cells. I am also interested in understanding how to overcome the shortcomings of
-current machine learning methods towards the development of explainable and sustainable ML
-systems.
+I am currently a Master Student in Computer Science at [University of Genoa](https://unige.it/en/). My greatest ambition is to work on the science and the engineering of intelligence. To me, the most intriguing aspect of AI is human intelligence. My research interests are focused on recent advances in cognition models based on grid cells. I am also interested in understanding how to overcome the shortcomings of current machine learning methods towards the development of explainable and sustainable ML systems.
 
-I am also part of [IANUA](http://www.ianua.unige.it/), the excellence school of University of Genoa. Previously, I obtained a BSc in Computer Science and Automation Engineering from the [Polytechnic University of Bari](http://www.en.poliba.it/).  I was also trainee at the National Research Council of Bari [CNR-STIIMA](https://www.stiima.cnr.it/en/index.php?sez=9) where I worked on deep learning and computer vision techniques for the automatic detection of cetaceans in images.
+I am also part of [IANUA](http://www.ianua.unige.it/), the excellence school of University of Genoa. Previously, I obtained a BSc in Computer Science and Automation Engineering from the [Polytechnic University of Bari](http://www.en.poliba.it/). I was also a trainee at the National Research Council of Bari ([CNR-STIIMA](https://www.stiima.cnr.it/en/index.php?sez=9)) where I worked on deep learning and computer vision techniques under the supervision of [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it).
