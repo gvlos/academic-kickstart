@@ -18,27 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Student"
+  company = "IANUA Excellence School"
+  company_url = "www.ianua.unige.it"
+  location = "Genoa"
+  date_start = "2019-12"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  Extracurricular courses offered by private companies and research institutions
+    """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Trainee"
+  company = "National Research Council of Italy (CNR)"
+  company_url = "https://www.stiima.cnr.it/en/"
+  location = "Bari"
+  date_start = "2019-04"
+  date_end = "2019-10"
+  description = """Developed bachelor's thesis project titled Deep learning and object detection techniques for the photo-identification of cetaceans under the supervision of [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl), PhD and prof. [Tiziano Politi](https://scholar.google.it/citations?user=jpgXGFEAAAAJ&hl=it)"""
 
 +++
