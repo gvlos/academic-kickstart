@@ -19,22 +19,40 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Student"
+  company = "University of Genoa"
+  company_url = "https://unige.it/en/"
+  location = "Genoa"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """ MSc in Computer Science, track Data Science and Engineering - Artificial Intelligence """
+
+[[experience]]
+  title = "Student"
   company = "IANUA Excellence School"
   company_url = "www.ianua.unige.it"
   location = "Genoa"
   date_start = "2019-12-01"
   date_end = ""
   description = """
-  Extracurricular courses offered by private companies and research institutions
+  Extracurricular courses and projects offered by private companies and research institutions
     """
 
 [[experience]]
   title = "Trainee"
   company = "National Research Council of Italy (CNR)"
-  company_url = "https://www.stiima.cnr.it/en/"
+  company_url = "https://www.stiima.cnr.it/en/index.php?sez=9"
   location = "Bari"
   date_start = "2019-04-01"
   date_end = "2019-10-10"
   description = """Developed bachelor's thesis project titled Deep learning and object detection techniques for the photo-identification of cetaceans under the supervision of [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl), PhD and prof. [Tiziano Politi](https://scholar.google.it/citations?user=jpgXGFEAAAAJ&hl=it)"""
+
+[[experience]]
+  title = "Student"
+  company = "Polytechnic University of Bari"
+  company_url = "http://www.en.poliba.it/"
+  location = "Bari"
+  date_start = "2016-09-01"
+  date_end = "2019-10-10"
+  description = """ Graduated in Computer science and Automation engineering"""
 
 +++
