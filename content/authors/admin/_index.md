@@ -14,16 +14,16 @@ role: Master Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of Genova (Italy)
+- name: University of Genoa (Italy)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human-inspired artificial intelligence
+bio: The most intriguing aspect of AI is human intelligence
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuroscience
+- Machine Learning
 
 education:
   courses:
@@ -45,11 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gvlos
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,6 +59,8 @@ user_groups:
 - Visitors
 ---
 
-Gianvito Losapio is a Master Student in Computer Science at University of Genova, Italy. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Master Student in Computer Science at [University of Genoa](https://unige.it/en/). My greatest ambition is to work on the science and the engineering of intelligence. To me, the most intriguing aspect of AI is human intelligence. My research interests are focused on recent advances in cognition models based on grid cells. I am also interested in understanding how to overcome the shortcomings of
+current machine learning methods towards the development of explainable and sustainable ML
+systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am also part of [IANUA](http://www.ianua.unige.it/), the excellence school of University of Genoa. Previously, I obtained a BSc in Computer Science and Automation Engineering from the [Polytechnic University of Bari](http://www.en.poliba.it/).  I was also trainee at the National Research Council of Bari [CNR-STIIMA](https://www.stiima.cnr.it/en/index.php?sez=9) where I worked on deep learning and computer vision techniques for the automatic detection of cetaceans in images.
