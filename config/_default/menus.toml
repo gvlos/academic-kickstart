@@ -10,11 +10,6 @@
   weight = 10
 
 [[main]]
-  name = "Slider"
-  url = "#slider"
-  weight = 1
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 30
