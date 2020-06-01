@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   location = "Bari"
   date_start = "2019-04-01"
   date_end = "2019-06-10"
-  description = """Worked on deep learning and computer vision for my Bachelor's thesis under the supervision of [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl), PhD."""
+  description = """Worked on deep learning and computer vision for my Bachelor's thesis under the supervision of [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl), PhD. Consequently co-authored some papers."""
 
 [[experience]]
   title = "Student"
