@@ -14,7 +14,7 @@ role: Master Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of Genoa (Italy)
+- name: University of Genoa, Italy
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,9 +39,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GvLos97
 - icon: github
   icon_pack: fab
   link: https://github.com/gvlos
