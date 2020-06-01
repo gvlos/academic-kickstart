@@ -6,7 +6,7 @@ tags:
 date: "2020-01-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/gvlos/ML_project"
 
 image:
   caption: Photo by rawpixel on Unsplash
