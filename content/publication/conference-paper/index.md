@@ -12,7 +12,7 @@ authors:
 - Giovanni Dimauro
 - Rosalia Maglietta
 date: "2020-04-10T00:00:00Z"
-doi: "https://doi.org/10.3390/electronics9050758"
+doi: "10.3390/electronics9050758"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-10T00:00:00Z"
@@ -44,7 +44,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://doi.org/10.3390/electronics9050758
+# url_pdf: https://doi.org/10.3390/electronics9050758
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
