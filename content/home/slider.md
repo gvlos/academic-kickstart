@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "I am center aligned :smile:"
+  content = "Not long ago the first computer and the world wide web were born. The astonishing effect of a creative artist being muse of itself. What's next?"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

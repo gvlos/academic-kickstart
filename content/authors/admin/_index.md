@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Science and Automation Engineering
+  - course: B.S. in Computer Science and Automation Engineering
     institution: Polytechnic University of Bari
     year: 2019
 
@@ -59,6 +59,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Master Student in Computer Science - track Data Science & Engineering, Artificial Intelligence - at [University of Genoa](https://unige.it/en/). My greatest ambition is contributing to the efforts being made to understand how our brain works by exploiting the powerful alliance between machine learning and neuroscience, towards a grand, unified theory of intelligence. What intrigue me the most are [recent advances](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/) in cognition models based on grid cells. I am also interested in understanding how to design explainable and sustainable machine learning algorithms for more general applications.
+I am a Master Student in Computer Science - track Data Science & Engineering, Artificial Intelligence - at [University of Genoa](https://courses.unige.it/10852). My greatest ambition is contributing to the efforts currently being made to understand how our brain works. I believe that the powerful alliance between machine learning and neuroscience may lead us toward a grand, unified theory of intelligence. What intrigue me the most are closed-loop [neuromorphic systems](https://www.ini.uzh.ch/en/institute/people?uname=giacomo) able to learn as well as [cognition models](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/) based on grid cells. I am also interested in the design of explainable and sustainable machine learning algorithms for more general applications.
 
-Currently, I am studying machine learning methods applied to high energy physics under the supervision of [Prof. Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) at the [Laboratory for Computational and Statistical Learning](http://lcsl.mit.edu/#/home), part of the [Machine Learning Genoa center](https://ml.unige.it/). I am also fellow of [IANUA](http://www.ianua.unige.it/), the excellence school of University of Genoa. Previously, I obtained a Bachelor's degree in Computer Science and Automation Engineering from [Polytechnic University of Bari](http://www.en.poliba.it/). For my thesis I worked on deep learning and computer vision as an intern at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), where my supervisor was [Dr. Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it).
+Currently, I am studying machine learning methods applied to high energy physics under the supervision of [Prof. Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) at the [Laboratory for Computational and Statistical Learning](http://lcsl.mit.edu/#/home), part of the [Machine Learning Genoa center](https://ml.unige.it/). I am also fellow at [IANUA](http://www.ianua.unige.it/), the excellence school of University of Genoa. Previously, I obtained a Bachelor's degree in Computer Science and Automation Engineering from [Polytechnic University of Bari](http://www.en.poliba.it/). For my thesis I worked on deep learning and computer vision during an internship at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), where my supervisor was [Dr. Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it).
