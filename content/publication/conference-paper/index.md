@@ -56,7 +56,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Emanuele Seller'
+  caption: 'Image credit: [Emanuele Seller](https://emanueleseller.wordpress.com/)'
   focal_point: ""
   preview_only: false
 
