@@ -1,16 +1,7 @@
 ---
 title: "Combined Color Semantics and Deep Learning for the Automatic Detection of Dolphin Dorsal Fins"
 authors:
-- Vito Renò
 - admin
-- Flavio Forenza
-- Tiziano Politi
-- Ettore Stella
-- Carmelo Fanizza
-- Karin Hartman
-- Roberto Carlucci
-- Giovanni Dimauro
-- Rosalia Maglietta
 date: "2020-04-10T00:00:00Z"
 doi: "10.3390/electronics9050758"
 
@@ -75,13 +66,6 @@ projects: []
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+<b>Authors:</b><br>
+Renò, V.; Losapio, G.; Forenza, F.; Politi, T.; Stella, E.; Fanizza, C.; Hartman, K.; Carlucci, R.; Dimauro, G.;Maglietta, R. <br>
 
