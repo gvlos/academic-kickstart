@@ -18,33 +18,42 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Student"
+  title = "Master Student"
+  company = "Laboratory for Computational and Statistical Learning (LCSL)"
+  company_url = "https://lcsl.mit.edu"
+  location = "Genoa"
+  date_start = "2019-03-01"
+  date_end = ""
+  description = """ Studying machine learning methods applied to high energy physics. Supervisor: [Prof. Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) """
+
+[[experience]]
+  title = "Master Student"
   company = "University of Genoa"
   company_url = "https://unige.it/en/"
   location = "Genoa"
   date_start = "2019-10-01"
   date_end = ""
-  description = """ MSc in Computer Science, track Data Science and Engineering - Artificial Intelligence """
+  description = """ M.S. in [Computer Science](https://courses.unige.it/10852) (Data Science and Engineering - Artificial Intelligence) """
 
 [[experience]]
-  title = "Student"
-  company = "IANUA Excellence School"
+  title = "Fellow"
+  company = "Scuola superiore IANUA"
   company_url = "www.ianua.unige.it"
   location = "Genoa"
   date_start = "2019-12-01"
   date_end = ""
   description = """
-  Extracurricular courses and projects offered by private companies and research institutions
+  Excellence school of University of Genoa. Extracurricular courses and projects offered by private companies and research institutions.
     """
 
 [[experience]]
-  title = "Trainee"
+  title = "Intern"
   company = "National Research Council of Italy (CNR)"
   company_url = "https://www.stiima.cnr.it/en/index.php?sez=9"
   location = "Bari"
   date_start = "2019-04-01"
-  date_end = "2019-10-10"
-  description = """Developed bachelor's thesis project titled Deep learning and object detection techniques for the photo-identification of cetaceans under the supervision of [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl), PhD and prof. [Tiziano Politi](https://scholar.google.it/citations?user=jpgXGFEAAAAJ&hl=it)"""
+  date_end = "2019-06-10"
+  description = """Worked on deep learning and computer vision for my Bachelor's thesis under the supervision of [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl), PhD."""
 
 [[experience]]
   title = "Student"
@@ -53,6 +62,6 @@ date_format = "Jan 2006"
   location = "Bari"
   date_start = "2016-09-01"
   date_end = "2019-10-10"
-  description = """ Graduated in Computer science and Automation engineering"""
+  description = """ B.S. in Computer science and Automation engineering. Final mark: 110/110 <i>cum laude</i>. Thesis: <i>Deep learning and object detection techniques for the photo-identification of cetaceans</i>. Supervisors: Prof. [Tiziano Politi](https://scholar.google.it/citations?user=jpgXGFEAAAAJ&hl=it), [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl), PhD."""
 
 +++
