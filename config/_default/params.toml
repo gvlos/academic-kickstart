@@ -106,7 +106,6 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/GvLos97"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/xZDKWO2Yg3aW"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Gianvito97"},
   ]
 
