@@ -71,5 +71,5 @@ Renò, V.; Losapio, G.; Forenza, F.; Politi, T.; Stella, E.; Fanizza, C.; Hartma
 
 <br>
 <b>Link:</b><br>
-[https://doi.org/10.3390/electronics9050758](https://doi.org/10.3390/electronics9050758)
+<a href="https://doi.org/10.3390/electronics9050758">https://doi.org/10.3390/electronics9050758</a>
 
