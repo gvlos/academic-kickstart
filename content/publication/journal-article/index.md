@@ -69,3 +69,7 @@ slides: ""
 <b>Authors:</b><br>
 Renò, V.; Losapio, G.; Forenza, F.; Politi, T.; Stella, E.; Fanizza, C.; Hartman, K.; Carlucci, R.; Dimauro, G.;Maglietta, R. <br>
 
+<br>
+<b>Link:</b><br>
+https://doi.org/10.3390/electronics9050758
+
