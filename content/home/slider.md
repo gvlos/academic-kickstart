@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = "Not long ago the first computer and the world wide web were born. The astonishing effect of a bizarre artist being muse of itself. Now a delightful cornucopia of inspirations is flowing in his creative moments. What's next?"
+  content = "Not long ago the first computer and the world wide web were born. The astonishing effect of the fanciest artist capable of being muse of itself. Now a delightful cornucopia of pure science is flowing from that bizarre inspiration. What's next?"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
