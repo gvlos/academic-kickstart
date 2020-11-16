@@ -31,7 +31,7 @@ image:
 projects: []
 ---
 
-**This is my first review**
+<!-- **This is my first review**
 
 ## Introduction
 
@@ -44,5 +44,5 @@ I want to start from narcolepsy (pag.253):
 and fatal familial insomnia (pag. 256):
 
 
-"In addition, the signals sent from the brain down into the body that prepare us for sleep - the reduction of heart rate, blood pressure, and metabolism, and the lowering of core body temperature - all must pass through the thalamus on their way down the spinal cord, and are then mailed out to the different tissues and organs of the body. But those signals were thwarted by the damage to the thalamus, adding to the impossibility of sleep in the patients"
+"In addition, the signals sent from the brain down into the body that prepare us for sleep - the reduction of heart rate, blood pressure, and metabolism, and the lowering of core body temperature - all must pass through the thalamus on their way down the spinal cord, and are then mailed out to the different tissues and organs of the body. But those signals were thwarted by the damage to the thalamus, adding to the impossibility of sleep in the patients" -->
 
