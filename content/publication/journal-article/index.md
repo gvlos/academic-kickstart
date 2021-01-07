@@ -74,7 +74,13 @@ slides: ""
 
 <div style="text-align:left"> <img src="bindlogo.png" style="width:90%;"/> </div>
 
-<div style="text-align:left"> <embed src="poster.pdf" type=”application/pdf” style="width:100%;"></div>
+<div class="fullscreen_post">
+  <div class="post">
+    <div class="wrapper">
+      <iframe src="poster.pdf" style="width:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
 
 
 <h4>Video credits: Jonian Dolphin Conservation</h4>
