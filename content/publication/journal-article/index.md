@@ -89,8 +89,7 @@ slides: ""
  </iframe> 
 -->
 
-<br>
-<br>
+
 <b>Demo:</b><br>
 <a href="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html">Webpage</a>
 
@@ -106,8 +105,7 @@ slides: ""
 -->
 
 
-<br>
-<br>
+
 <b>Publication:</b><br>
 <a href="https://doi.org/10.3390/electronics9050758">https://doi.org/10.3390/electronics9050758</a>
 
