@@ -106,14 +106,6 @@ slides: ""
  </iframe>
 -->
 
-<br>
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:500px;border:none;"></iframe>
-  </div>
-</div>
-
 
 <br>
 <br>
