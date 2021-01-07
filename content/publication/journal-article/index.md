@@ -74,18 +74,21 @@ slides: ""
 
 <div style="text-align:left"> <img src="bindlogo.png" style="width:90%;"/> </div>
 
+<div style="text-align:left"> <img src="f.jpg" style="width:100%;"/> </div>
 
+<!--
  <iframe
        src="poster.pdf"
        width="100%"
-       height="400px"
+       height="450px"
        style="border:none;">
- </iframe>
+ </iframe> 
+-->
 
 <br>
 <br>
 <b>Demo:</b><br>
-<a href="./f.jpg">HTML version</a>
+<a href="./demo.html" download>HTML version</a>
 
 <br>
 <br>
