@@ -64,12 +64,10 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-<div class="fullscreen">
-  <div class="video">
-    <div class="wrapper">
-      <iframe src="https://player.vimeo.com/video/409803115?loop=1&autoplay=1&background=1&title=0&byline=0&portrait=0" min-width="100%;"
-      min-height="100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    </div>
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://player.vimeo.com/video/409803115?loop=1&autoplay=1&background=1&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
 
