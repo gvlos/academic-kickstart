@@ -77,7 +77,6 @@ slides: ""
 <div style="text-align:left"> <img src="f.jpg" style="width:100%;"/> </div>
 
 <br>
-<br>
 <b>Poster:</b><br>
 <a href="./poster.pdf">PDF</a>
 
@@ -115,5 +114,5 @@ slides: ""
 
 <br>
 <br>
-<b>Video credits:</b>
+<b>Video credits:</b><br>
 <a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a>
