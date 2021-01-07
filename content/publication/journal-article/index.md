@@ -76,7 +76,7 @@ slides: ""
 
 
  <iframe
-       src="./demo.html"
+       src="poster.pdf"
        width="90%"
        height="1000px"
        style="border:none;">
