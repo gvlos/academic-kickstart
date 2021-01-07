@@ -88,13 +88,29 @@ slides: ""
 <br>
 <br>
 <b>Demo:</b><br>
-<a href="./demo.html" download>HTML version</a>
+<a href="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html">Webpage</a>
 
 <br>
 <br>
-<b>Link to the publication:</b><br>
+ <iframe
+       src="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html"
+       width="90%"
+       height="1000px"
+       style="border:none;">
+ </iframe>
+
+<br>
+<br>
+<b>Poster:</b><br>
+<a href="./poster.pdf">PDF</a>
+
+<br>
+<br>
+<b>Publication:</b><br>
 <a href="https://doi.org/10.3390/electronics9050758">https://doi.org/10.3390/electronics9050758</a>
 
+
 <br>
 <br>
-<b>Video credits:</b> Jonian Dolphin Conservation
+<b>Video credits:</b>
+<a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a>
