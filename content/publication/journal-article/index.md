@@ -69,8 +69,15 @@ slides: ""
 <div class="fullscreen">
   <div class="video">
     <div class="wrapper">
-      <iframe src="https://player.vimeo.com/video/409803115?loop=1&autoplay=1&background=1&title=0&byline=0&portrait=0" width="1000" height="562" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      <iframe src="https://player.vimeo.com/video/409803115?loop=1&autoplay=1&background=1&title=0&byline=0&portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
+  </div>
+  <div class="pdf">
+    <div class="wrapper">
+      <iframe src="poster.pdf" width=”100%” height=”100%”>
+      This browser does not support PDFs. Please download the PDF to view it: Download PDF
+      </iframe>
+    </div>  
   </div>
 </div>
 <h1>Fullscreen chromeless embed Vimeo video</h1>
