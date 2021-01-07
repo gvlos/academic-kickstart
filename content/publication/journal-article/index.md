@@ -90,7 +90,7 @@ slides: ""
 -->
 
 
-<b>Demo</b><br> (suggested visualization from Desktop):
+<b>Demo</b> (suggested visualization from Desktop):<br>
 <a href="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html">Webpage</a>
 
 <!--
