@@ -76,6 +76,11 @@ slides: ""
 
 <div style="text-align:left"> <img src="f.jpg" style="width:100%;"/> </div>
 
+<br>
+<br>
+<b>Poster:</b><br>
+<a href="./poster.pdf">PDF</a>
+
 <!--
  <iframe
        src="poster.pdf"
@@ -90,19 +95,25 @@ slides: ""
 <b>Demo:</b><br>
 <a href="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html">Webpage</a>
 
+<!--
 <br>
 <br>
  <iframe
        src="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html"
-       width="90%"
+       width="100%"
        height="1000px"
        style="border:none;">
  </iframe>
+-->
 
 <br>
-<br>
-<b>Poster:</b><br>
-<a href="./poster.pdf">PDF</a>
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:500px;border:none;"></iframe>
+  </div>
+</div>
+
 
 <br>
 <br>
