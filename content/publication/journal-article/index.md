@@ -47,7 +47,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Emanuele Seller](https://emanueleseller.wordpress.com/)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -65,6 +65,15 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+<div class="fullscreen">
+  <div class="video">
+    <div class="wrapper">
+      <iframe src="//player.vimeo.com/video/108960330?autoplay=1&loop=1&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+<h1>Fullscreen chromeless embed Vimeo video</h1>
 
 <b>Authors:</b><br>
 Renò, V.; Losapio, G.; Forenza, F.; Politi, T.; Stella, E.; Fanizza, C.; Hartman, K.; Carlucci, R.; Dimauro, G.;Maglietta, R. <br>
