@@ -45,7 +45,7 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
+image: 
   caption: ''
   focal_point: ""
   preview_only: false
@@ -64,9 +64,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-{{< figure library="true" src="bindlogo.jpg" width="720" height="480" >}}
-
-<div style="text-align:left"> <img src="bindlogo.png" style="width:100%;"/> </div>
 
 <div class="fullscreen">
   <div class="video">
@@ -77,15 +74,11 @@ slides: ""
 </div>
 <h1>Fullscreen chromeless embed Vimeo video</h1>
 
-<div class="post">
-  <div class="pdf">
-    <div class="wrapper">
-      <iframe src="poster.pdf" width=”720” height=”480” frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-      This browser does not support PDFs. Please download the PDF to view it: Download PDF
-      </iframe>
-    </div>  
-  </div>
-</div>
+<div style="text-align:left"> <img src="bindlogo.png" style="width:90%;"/> </div>
+
+
+
+<div style="text-align:left"> <embed src="poster.pdf" type=”application/pdf” style="width:100%;"></div>
 
 <b>Authors:</b><br>
 Renò, V.; Losapio, G.; Forenza, F.; Politi, T.; Stella, E.; Fanizza, C.; Hartman, K.; Carlucci, R.; Dimauro, G.;Maglietta, R. <br>
