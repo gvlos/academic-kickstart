@@ -75,13 +75,18 @@ slides: ""
 <div style="text-align:left"> <img src="bindlogo.png" style="width:90%;"/> </div>
 
 
+ <iframe
+       src="./demo.html"
+       width="90%"
+       height="1000px"
+       style="border:none;">
+ </iframe>
 
 
-<h4>Video credits: Jonian Dolphin Conservation</h4>
-<b>Authors:</b><br>
-Renò, V.; Losapio, G.; Forenza, F.; Politi, T.; Stella, E.; Fanizza, C.; Hartman, K.; Carlucci, R.; Dimauro, G.;Maglietta, R. <br>
 
 <br>
-<b>Link:</b><br>
+<b>Link to the publication:</b><br>
 <a href="https://doi.org/10.3390/electronics9050758">https://doi.org/10.3390/electronics9050758</a>
 
+<br>
+<b>Video credits: Jonian Dolphin Conservation</b>
