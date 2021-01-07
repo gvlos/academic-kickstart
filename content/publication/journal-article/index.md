@@ -76,7 +76,7 @@ slides: ""
 
 <div style="text-align:left"> <img src="f.jpg" style="width:100%;"/> </div>
 
-<br>
+
 <b>Poster:</b><br>
 <a href="./poster.pdf">PDF</a>
 
