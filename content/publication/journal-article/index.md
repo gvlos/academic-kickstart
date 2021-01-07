@@ -78,14 +78,14 @@ slides: ""
  <iframe
        src="poster.pdf"
        width="100%"
-       height="480px"
+       height="400px"
        style="border:none;">
  </iframe>
 
 <br>
 <br>
 <b>Demo:</b><br>
-<a href="./demo.html">HTML version</a>
+<a href="./f.jpg">HTML version</a>
 
 <br>
 <br>
