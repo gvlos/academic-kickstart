@@ -64,21 +64,20 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
 <div class="fullscreen">
   <div class="video">
     <div class="wrapper">
-      <iframe src="https://player.vimeo.com/video/409803115?loop=1&autoplay=1&background=1&title=0&byline=0&portrait=0" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      <iframe src="https://player.vimeo.com/video/409803115?loop=1&autoplay=1&background=1&title=0&byline=0&portrait=0" style="width:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
   </div>
 </div>
-<h1>Fullscreen chromeless embed Vimeo video</h1>
 
 <div style="text-align:left"> <img src="bindlogo.png" style="width:90%;"/> </div>
 
-
-
 <div style="text-align:left"> <embed src="poster.pdf" type=”application/pdf” style="width:100%;"></div>
+
+
+<h4>Video credits: Jonian Dolphin Conservation</h4>
 
 <b>Authors:</b><br>
 Renò, V.; Losapio, G.; Forenza, F.; Politi, T.; Stella, E.; Fanizza, C.; Hartman, K.; Carlucci, R.; Dimauro, G.;Maglietta, R. <br>
