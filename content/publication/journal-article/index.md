@@ -78,11 +78,14 @@ slides: ""
  <iframe
        src="poster.pdf"
        width="100%"
-       height="500px"
+       height="480px"
        style="border:none;">
  </iframe>
 
-
+<br>
+<br>
+<b>Demo:</b><br>
+<a href="./demo.html">HTML version</a>
 
 <br>
 <br>
@@ -91,4 +94,4 @@ slides: ""
 
 <br>
 <br>
-<b>Video credits: Jonian Dolphin Conservation</b>
+<b>Video credits:</b> Jonian Dolphin Conservation
