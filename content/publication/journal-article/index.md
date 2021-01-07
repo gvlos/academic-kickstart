@@ -77,16 +77,18 @@ slides: ""
 
  <iframe
        src="poster.pdf"
-       width="90%"
-       height="1000px"
+       width="100%"
+       height="500px"
        style="border:none;">
  </iframe>
 
 
 
 <br>
+<br>
 <b>Link to the publication:</b><br>
 <a href="https://doi.org/10.3390/electronics9050758">https://doi.org/10.3390/electronics9050758</a>
 
+<br>
 <br>
 <b>Video credits: Jonian Dolphin Conservation</b>
