@@ -64,15 +64,15 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+<div style="text-align:center">Credit: <a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a> (No audio)</div>
 <div>
   <div style="position:relative;padding-top:56.25%;">
     <iframe src="https://player.vimeo.com/video/409803115?loop=1&autoplay=1&background=1&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
-<div style="text-align:center">No audio - Credit: <a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a></div>
 
-<br>
+
 <div style="text-align:left"> <img src="bindlogo.png" style="width:90%;"/> </div>
 
 <div style="text-align:left"> <img src="f.jpg" style="width:100%;"/> </div>
@@ -97,6 +97,9 @@ Download the package <a href="#">here</a> and open the live script `ccd_demo.mlx
 A recent Matlab version (>R2019b) is required with the following packages:  
 - Computer Vision Toolbox
 - Deep Learning Toolbox
+
+
+
 <br>
 A static HTML version of the live script is also available <a href="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html">here</a> (suggested visualization from Desktop)
 
