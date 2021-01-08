@@ -114,13 +114,15 @@ A static HTML version of the live script is also available <a href="https://nbvi
 -->
 
 
-<br>
+
+
 <br>
 <b>Publication:</b><br>
 <a href="https://doi.org/10.3390/electronics9050758">https://doi.org/10.3390/electronics9050758</a>
 
 
 
-<br>
+
+
 <b>Video credits:</b><br>
 <a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a>
