@@ -100,7 +100,6 @@ A recent Matlab version (>R2019b) is required with the following packages:
 
 
 
-<br>
 A static HTML version of the live script is also available <a href="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html">here</a> (suggested visualization from Desktop)
 
 <!--
@@ -115,8 +114,8 @@ A static HTML version of the live script is also available <a href="https://nbvi
 -->
 
 
-
-
+<br>
+<br>
 <b>Publication:</b><br>
 <a href="https://doi.org/10.3390/electronics9050758">https://doi.org/10.3390/electronics9050758</a>
 
