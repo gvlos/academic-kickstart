@@ -70,8 +70,9 @@ slides: ""
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
+<div style="text-align:center">No audio - Credit: <a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a></div>
 
-
+<br>
 <div style="text-align:left"> <img src="bindlogo.png" style="width:90%;"/> </div>
 
 <div style="text-align:left"> <img src="f.jpg" style="width:100%;"/> </div>
@@ -90,8 +91,14 @@ slides: ""
 -->
 
 
-<b>Demo</b> (suggested visualization from Desktop):<br>
-<a href="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html">Webpage</a>
+
+<b>Live Demo</b> :<br>
+Download the package <a href="#">here</a> and open the live script `ccd_demo.mlx` <br>
+A recent Matlab version (>R2019b) is required with the following packages:  
+- Computer Vision Toolbox
+- Deep Learning Toolbox
+<br>
+A static HTML version of the live script is also available <a href="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html">here</a> (suggested visualization from Desktop)
 
 <!--
 <br>
@@ -103,6 +110,7 @@ slides: ""
        style="border:none;">
  </iframe>
 -->
+
 
 
 
