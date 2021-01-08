@@ -121,6 +121,6 @@ A static HTML version of the live script is also available <a href="https://nbvi
 
 
 
-
+<br>
 <b>Video credits:</b><br>
 <a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a>
