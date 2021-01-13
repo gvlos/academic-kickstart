@@ -93,7 +93,7 @@ slides: ""
 
 
 <b>Live Demo</b> :<br>
-Download the package <a href="./cs.png">here</a> and open the live script `ccd_demo.mlx` <br>
+Download the package <a href="https://drive.google.com/file/d/1caevFMPO9KzABEnAmSDxvjAoqA9iLSEy/view?usp=sharing">here</a> and open the live script `demo.mlx` <br>
 A recent Matlab version (>R2019b) is required with the following packages:  
 - Computer Vision Toolbox
 - Deep Learning Toolbox
