@@ -34,10 +34,10 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://www.mdpi.com/2079-9292/9/5/758/pdf?version=1588683940'
+#url_pdf: 'https://www.mdpi.com/2079-9292/9/5/758/pdf?version=1588683940'
 # url_code: '#'
 # url_dataset: '#'
-url_poster: 'https://gvlosapio.netlify.app/publication/journal-article/poster.pdf'
+#url_poster: 'https://gvlosapio.netlify.app/publication/journal-article/poster.pdf'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
