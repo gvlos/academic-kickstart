@@ -9,12 +9,25 @@ title = "Contact"
 subtitle = ""
 
 # Automatically link email and phone?
-autolink = true
+autolink = false
 
 # Email form provider
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
+
+content:
+
+  # Contact details (edit or remove options as required)
+  email: gvlosapio@gmail.com
+  address:
+    street: via Montallegro 1
+    city: Genova
+    region: GE
+    postcode: '16145'
+    country: Italy
+    country_code: IT
+
 +++
 
