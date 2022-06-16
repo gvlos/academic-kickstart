@@ -15,7 +15,7 @@ role: Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: Machine Learning Genoa Center
-  url: "https://malga.unige.it/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research Fellow @ MaLGa, Italy
