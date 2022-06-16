@@ -41,7 +41,7 @@ featured: false
 
 links:
 # - name: Custom Link
-url: 'https://github.com/gvlos/master-thesis'
+# url: 'https://github.com/gvlos/master-thesis'
 url_pdf: 'https://github.com/gvlos/master-thesis/blob/main/Master_Thesis.pdf'
 # url_code: '#'
 # url_dataset: '#'

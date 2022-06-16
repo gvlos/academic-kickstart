@@ -39,7 +39,7 @@ featured: false
 
 links:
 # - name: Custom Link
-url: 'https://arxiv.org/abs/2204.02317'
+# url: 'https://arxiv.org/abs/2204.02317'
 url_pdf: 'https://arxiv.org/pdf/2204.02317.pdf'
 # url_code: '#'
 # url_dataset: '#'

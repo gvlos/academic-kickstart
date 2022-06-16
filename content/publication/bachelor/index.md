@@ -39,7 +39,7 @@ featured: false
 
 links:
 # - name: Custom Link
-url: 'https://github.com/gvlos/Tesi-triennale'
+# url: 'https://github.com/gvlos/Tesi-triennale'
 url_pdf: 'https://github.com/gvlos/Tesi-triennale/blob/master/BS_Thesis_github_version.pdf'
 # url_code: '#'
 # url_dataset: '#'
