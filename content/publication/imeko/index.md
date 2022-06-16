@@ -1,6 +1,6 @@
 ---
 title: "Lightweight and efficient convolutional neural networks for recognition of dolphin dorsal fins"
-authors: - ""
+authors: ""
 date: "2020-10-01T00:00:00Z"
 #doi: "10.3390/electronics9050758"
 
