@@ -14,7 +14,7 @@ date: "2020-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *IMEKO TC-19 International Workshop on Metrology for the Sea*
+publication: "*IMEKO TC-19 International Workshop on Metrology for the Sea*"
 # publication_short: In *Electronics 2020, 9, 758*
 
 abstract: "The study of cetaceans is of vital importance to infer biological information useful to drive sustainable action plans aimed at preserving the marine environment and its biodiversity. In a recent study, we developed a novel algorithm for the detection of dorsal fins in the context of a fully automated pipeline for the photo-identification of Risso's dolphins. A lightweight convolutional neural network (CNN) architecture was proposed to recognize fins among cropped images, filtering the inputs for the photo-identification algorithm. In this paper, we compare the performances of that custom CNN to another extremely efficient architecture: Shufflenet. Training an efficient classifier is a key effort to speed up the first part of the photo-identification pipeline, enabling the feasibility of large scale ecological studies. The experiment confirms that both architectures provide a robust feature extraction capability for the problem in hand, even with a significantly smaller number of parameters with respect to other popular state-of-the-art CNNs."
