@@ -10,23 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student in Computer Science
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Genoa, Italy
+- name: Machine Learning Genoa Center, Italy
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Master Student in Computer Science @ University of Genoa, Italy
+bio: Research Fellow @ MaLGa, Italy
 
 interests:
-- Machine Learning
-- Neuroscience
-- Artificial Intelligence
+- Reinforcement learning
+- Cognitive neuroscience
 
 education:
   courses:
+  - course: M.S. in Computer Science
+    institution: University of Genoa
+    year: 2022
   - course: B.S. in Computer Science and Automation Engineering
     institution: Polytechnic University of Bari
     year: 2019
@@ -56,7 +58,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Master Student in Computer Science - track Data Science & Engineering, Artificial Intelligence - at [University of Genoa](https://courses.unige.it/10852). I would like to devote my career to cutting-edge problems related to artificial and biological intelligence. My research interests are computational models of perception and cognition, along with agents based on deep reinforcement learning. I am also interested in the design of efficient machine learning algorithms for general applications. I believe that the powerful alliance between machine
-learning and neuroscience can lead ourselves into a larger and more unified theory of intelligence.
+I am a Research Fellow at the [Machine Learning Genoa Center](https://malga.unige.it/). I am working on reinforcement learning algorithms for studying animal behaviour in odor navigation tasks. My supervisor is [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
 
-Currently, I am studying machine learning methods applied to high energy physics under the supervision of [Prof. Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) at the [Laboratory for Computational and Statistical Learning](http://lcsl.mit.edu/#/home), part of the [Machine Learning Genoa center](https://ml.unige.it/). I am also scholarship holder at [IANUA](http://www.ianua.unige.it/), the excellence school of University of Genoa. Previously, I obtained a Bachelor's degree in Computer Science and Automation Engineering from [Polytechnic University of Bari](http://www.en.poliba.it/). For my thesis I worked on deep learning and computer vision during an internship at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), where my supervisor was [Dr. Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it).
+I would like to use deep reinforcement learning to addess fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms.
+
+Previously, I worked on machine learning for high energy physics under the supervision of [Prof. Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) at the [University of Genoa](https://courses.unige.it/10852). I have been a Summer Student at [CERN](https://home.cern/), working with [Thomas Owen James](https://gitlab.cern.ch/tjames) and [Emilio Meschi](http://meschi.web.cern.ch/meschi/). I also interned the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), working on deep learning for computer vision with [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it) and [Rosalia Maglietta](https://publications.cnr.it/authors/rosalia.maglietta).
