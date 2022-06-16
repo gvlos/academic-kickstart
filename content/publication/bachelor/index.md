@@ -14,7 +14,7 @@ date: "2019-10-10T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*arXiv preprint*"
+publication: "Bachelor Thesis"
 # publication_short: In *Electronics 2020, 9, 758*
 
 # abstract: "We present a machine learning approach for model-independent new physics searches.

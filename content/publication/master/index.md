@@ -14,7 +14,7 @@ date: "2022-03-28T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*arXiv preprint*"
+publication: "Master Thesis"
 # publication_short: In *Electronics 2020, 9, 758*
 
 abstract: "Searching for new physics, i.e., physical laws that go beyond the reference models,
