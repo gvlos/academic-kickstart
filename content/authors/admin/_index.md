@@ -14,8 +14,8 @@ role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Machine Learning Genoa Center, Italy
-  url: ""
+- name: Machine Learning Genoa Center
+  url: "https://malga.unige.it/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research Fellow @ MaLGa, Italy
@@ -62,4 +62,4 @@ I am a Research Fellow at the [Machine Learning Genoa Center](https://malga.unig
 
 I would like to use deep reinforcement learning to addess fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms.
 
-Previously, I worked on machine learning for high energy physics under the supervision of [Prof. Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) at the [University of Genoa](https://courses.unige.it/10852). I have been a Summer Student at [CERN](https://home.cern/), working with [Thomas Owen James](https://gitlab.cern.ch/tjames) and [Emilio Meschi](http://meschi.web.cern.ch/meschi/). I also interned the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), working on deep learning for computer vision with [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it) and [Rosalia Maglietta](https://publications.cnr.it/authors/rosalia.maglietta).
+Previously, I worked on machine learning for high energy physics under the supervision of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) at the [University of Genoa](https://courses.unige.it/10852). I have been a Summer Student at [CERN](https://home.cern/), working with [Thomas Owen James](https://gitlab.cern.ch/tjames) and [Emilio Meschi](http://meschi.web.cern.ch/meschi/). I also interned at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), working on deep learning for computer vision with [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it) and [Rosalia Maglietta](https://publications.cnr.it/authors/rosalia.maglietta).
