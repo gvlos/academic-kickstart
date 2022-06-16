@@ -1,6 +1,6 @@
 ---
 title: "Combined Color Semantics and Deep Learning for the Automatic Detection of Dolphin Dorsal Fins"
-authors: - ""
+authors: ""
 date: "2020-04-01T00:00:00Z"
 doi: "10.3390/electronics9050758"
 
