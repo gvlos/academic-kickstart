@@ -17,17 +17,5 @@ autolink = false
 #   2: formspree.io
 email_form = 0
 
-<!-- content:
-
-  # Contact details (edit or remove options as required)
-  email: gvlosapio@gmail.com
-  address:
-    street: via Montallegro 1
-    city: Genova
-    region: GE
-    postcode: '16145'
-    country: Italy
-    country_code: IT -->
-
 +++
 
