@@ -1,8 +1,8 @@
 ---
-title: "Combined Color Semantics and Deep Learning for the Automatic Detection of Dolphin Dorsal Fins"
+title: "Lightweight and efficient convolutional neural networks for recognition of dolphin dorsal fins"
 authors: - ""
-date: "2021-01-07T00:00:00Z"
-doi: "10.3390/electronics9050758"
+date: "2020-10-01T00:00:00Z"
+#doi: "10.3390/electronics9050758"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2020-04-10T00:00:00Z"
@@ -23,7 +23,6 @@ doi: "10.3390/electronics9050758"
 #summary: A novel algorithm for the detection of dorsal fins is presented in the context of a fully automated pipeline for the photo-identification of Risso’s dolphins. A lightweight convolutional neural network (CNN) architecture is proposed to recognize fins among cropped images, filtering the inputs for the photo-identification algorithm.
 
 tags:
-- Electronics
 - Deep learning
 - Computer vision
 - Photo-identification
@@ -34,14 +33,14 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://www.mdpi.com/2079-9292/9/5/758/pdf?version=1588683940
+url_pdf: https://www.imeko.org/publications/tc19-Metrosea-2020/IMEKO-TC19-MetroSea-2020-13.pdf
 # url_code: '#'
 # url_dataset: '#'
-url_poster: 'https://gvlosapio.netlify.app/publication/journal-article/poster.pdf'
+# url_poster: 'https://gvlosapio.netlify.app/publication/journal-article/poster.pdf'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: '#'
+url_video: 'https://weconf.eu/imeko-metrosea-2020/presentation/lightweight-and-efficient-convolutional-neural-networks-for-recognition-of-dolphin-dorsal-fins'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -64,65 +63,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-<div style="text-align:center">Credit: <a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a> (No audio)</div>
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://player.vimeo.com/video/409803115?loop=1&autoplay=1&background=1&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
-
-
-<div style="text-align:left"> <img src="bindlogo.png" style="width:90%;"/> </div>
-
-<div style="text-align:left"> <img src="f.jpg" style="width:100%;"/> </div>
-
-
-<b>Poster:</b><br>
-<a href="./poster.pdf">PDF</a>
-
-<!--
- <iframe
-       src="poster.pdf"
-       width="100%"
-       height="450px"
-       style="border:none;">
- </iframe> 
--->
-
-
-
-<b>Live Demo</b> :<br>
-Download the package <a href="https://drive.google.com/file/d/1caevFMPO9KzABEnAmSDxvjAoqA9iLSEy/view?usp=sharing">here</a> and open the live script `demo.mlx` <br>
-A recent Matlab version (>R2019b) is required with the following packages:  
-- Computer Vision Toolbox
-- Deep Learning Toolbox
-
-
-
-A static HTML version of the live script is also available <a href="https://nbviewer.jupyter.org/github/gvlos/livedemo_m2lschool/blob/main/demo.html">here</a> (suggested visualization from Desktop)
-
-<!--
-<br>
-<br>
- <iframe
-       src="https://nbviewer.jupyter.org/github/gvlos/academic-kickstart/blob/master/content/publication/journal-article/demo.html"
-       width="100%"
-       height="1000px"
-       style="border:none;">
- </iframe>
--->
-
-
-
-
-<br>
-<b>Publication:</b><br>
-<a href="https://doi.org/10.3390/electronics9050758">https://doi.org/10.3390/electronics9050758</a>
-
-
-
-
-
-<b>Video credits:</b><br>
-<a href="https://www.joniandolphin.it/wordpress/2017/?lang=en">Jonian Dolphin Conservation</a>
