@@ -17,7 +17,7 @@ autolink = false
 #   2: formspree.io
 email_form = 0
 
-content:
+<!-- content:
 
   # Contact details (edit or remove options as required)
   email: gvlosapio@gmail.com
@@ -27,7 +27,7 @@ content:
     region: GE
     postcode: '16145'
     country: Italy
-    country_code: IT
+    country_code: IT -->
 
 +++
 
