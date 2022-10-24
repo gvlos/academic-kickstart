@@ -14,7 +14,7 @@ doi: "10.1140/epjc/s10052-022-10830-y"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Eur. Phys. J. C, 82 10 (2022) 879"
+publication: "European Physical Journal C, 82 10 (2022) 879"
 # publication_short: In *Electronics 2020, 9, 758*
 
 abstract: "We present a machine learning approach for model-independent new physics searches.
@@ -40,7 +40,7 @@ featured: false
 links:
 # - name: Custom Link
 # url: 'https://arxiv.org/abs/2204.02317'
-url_pdf: 'https://doi.org/10.1140/epjc/s10052-022-10830-y'
+url_pdf: 'https://link.springer.com/content/pdf/10.1140/epjc/s10052-022-10830-y.pdf'
 # url_code: '#'
 # url_dataset: '#'
 url_poster: 'https://gvlosapio.netlify.app/publication/epjc21/poster.pdf'
