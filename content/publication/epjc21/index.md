@@ -14,7 +14,7 @@ doi: "10.1140/epjc/s10052-022-10830-y"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "European Physical Journal C, 82 10 (2022) 879"
+publication: "European Physical Journal C, 82: 879"
 # publication_short: In *Electronics 2020, 9, 758*
 
 abstract: "We present a machine learning approach for model-independent new physics searches.
