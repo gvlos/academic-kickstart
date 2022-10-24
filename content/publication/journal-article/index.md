@@ -14,7 +14,7 @@ doi: "10.3390/electronics9050758"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Electronics, 9(5), 758"
+publication: "Electronics, 9(5), 758"
 # publication_short: In *Electronics 2020, 9, 758*
 
 #abstract: Photo-identification is a widely used non-invasive technique in biological studies for understanding if a specimen has been seen multiple times only relying on specific unique visual characteristics. This information is essential to infer knowledge about the spatial distribution, site fidelity, abundance or habitat use of a species. Today there is a large demand for algorithms that can help domain experts in the analysis of large image datasets. For this reason, it is straightforward that the problem of identify and crop the relevant portion of an image is not negligible in any photo-identification pipeline. This paper approaches the problem of automatically cropping cetaceans images with a hybrid technique based on domain analysis and deep learning. Domain knowledge is applied for proposing relevant regions with the aim of highlighting the dorsal fins, then a binary classification of fin vs. no-fin is performed by a convolutional neural network. Results obtained on real images demonstrate the feasibility of the proposed approach in the automated process of large datasets of Risso’s dolphins photos, enabling its use on more complex large scale studies. Moreover, the results of this study suggest to extend this methodology to biological investigations of different species.
