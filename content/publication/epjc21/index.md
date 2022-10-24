@@ -1,8 +1,8 @@
 ---
 title: "Learning new physics efficiently with nonparametric methods"
 authors: ""
-date: "2022-04-05T00:00:00Z"
-#doi: "10.3390/electronics9050758"
+date: "2022-10-05T00:00:00Z"
+doi: "10.1140/epjc/s10052-022-10830-y"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2020-04-10T00:00:00Z"
@@ -11,10 +11,10 @@ date: "2022-04-05T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv preprint*"
+publication: "Eur. Phys. J. C, 82 10 (2022) 879"
 # publication_short: In *Electronics 2020, 9, 758*
 
 abstract: "We present a machine learning approach for model-independent new physics searches.
@@ -40,10 +40,10 @@ featured: false
 links:
 # - name: Custom Link
 # url: 'https://arxiv.org/abs/2204.02317'
-url_pdf: 'https://arxiv.org/pdf/2204.02317.pdf'
+url_pdf: 'https://doi.org/10.1140/epjc/s10052-022-10830-y'
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: 'https://gvlosapio.netlify.app/publication/journal-article/poster.pdf'
+url_poster: 'https://gvlosapio.netlify.app/publication/epjc21/poster.pdf'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
