@@ -14,7 +14,7 @@ doi: "10.3233/IA-210126"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Selected paper from WOA2021 published on Intelligenza Artificiale, 16(1), 49-67."
+publication: "WOA2021 & Intelligenza Artificiale, 16(1), 49-67"
 # publication_short: In *Electronics 2020, 9, 758*
 
 abstract: "Nowadays, micro-mobility sharing systems have become extremely popular. Such systems consist in fleets of dockless electric vehicles which are deployed in cities, and used by citizens to move in a more ecological and flexible way. Unfortunately, one of the issues related to such technologies is its intrinsic load imbalance, since users can pick up and drop off the electric vehicles where they prefer. In this paper we present ESB-DQN, a multi-agent system for E-Scooter Balancing (ESB) based on Deep Reinforcement Learning where agents are implemented as Deep Q-Networks (DQN). ESB-DQN offers suggestions to pick or return e-scooters in order to make the fleet usage and sharing as balanced as possible, still ensuring that the original plans of the user undergo only minor changes. The main contributions of this paper include a careful analysis of the state of the art, an innovative customer-oriented rebalancing strategy, the integration of state-of-the-art libraries for deep Reinforcement Learning into the existing ODySSEUS simulator of mobility sharing systems, and preliminary but promising experiments that suggest that our approach is worth further exploration."
