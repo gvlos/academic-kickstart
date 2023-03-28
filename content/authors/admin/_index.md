@@ -22,10 +22,6 @@ bio: I am a multidisciplinary researcher, bridging the gap between the sciences 
 
 interests:
 - Anthropology
-- Bioinformatics
-- Infectious Disease
-- Digital Humanities
-- Software Development
 
 education:
   courses:
