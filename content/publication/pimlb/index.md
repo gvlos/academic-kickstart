@@ -14,7 +14,7 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Personal notes"
+publication: ""
 # publication_short: In *Electronics 2020, 9, 758*
 
 abstract: ""
