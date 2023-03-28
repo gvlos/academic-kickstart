@@ -1,59 +1,27 @@
 ---
-title: "Interview to professor Alessandro Verri"
-subtitle:
-event: 
-
-location: University of Genoa
-address:
-  city: Genoa
-  region:
-  postcode:
-  country:
-
-# summary:
-
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-10-18"
-# date_end: "2030-06-01T15:00:00Z"
-all_day: true
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2023-03-28"
-
+title: 'Interview to Professor Alessandro Verri'
+subtitle: 
+summary: 
 authors:
-- Gianvito Losapio
-
+- admin
 tags:
-- Artificial intelligence
-- Religion
-- Consciousness
-
-
-# Is this a featured talk? (true/false)
+- Academic
+categories:
+- Interviews
+date: "2022-10-18T00:00:00Z"
+lastmod: "2023-03-28T00:00:00Z"
 featured: false
+draft: false
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
+  placement: 2
   caption: ''
-  focal_point: Right
-
-links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/ktmeaton
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+  focal_point: ""
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -61,14 +29,11 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-
-# Enable math on this page?
-math: false
 ---
 
 During my period at [MaLGa](https://malga.unige.it/), I had the pleasure to speak with professor [Alessandro Verri](https://person.dibris.unige.it/verri-alessandro/) about topics such as artificial intelligence, faith, consciousness.
 
-Below you will find the English version of the interview. The original Italian version is available as a pdf [here]("static/files/AV_italiano.pdf") or as a podcast [here]().
+Below you will find the English version of the interview. The original Italian version is available as a pdf [here]("../files/AV_italiano.pdf") or as a podcast [here]().
 
 ----------------------------------------------------------------------------------------
 The following is my conversation with Prof. Alessandro Verri.
