@@ -68,7 +68,7 @@ math: false
 
 During my period at [MaLGa](https://malga.unige.it/), I had the pleasure to speak with professor [Alessandro Verri](https://person.dibris.unige.it/verri-alessandro/) about topics such as artificial intelligence, faith, consciousness.
 
-Below you will find the English version of the interview. The original Italian version is available as a pdf ([here]()) or as a podcast ([here]()).
+Below you will find the English version of the interview. The original Italian version is available as a pdf [here]("static/files/AV_italiano.pdf") or as a podcast [here]().
 
 ----------------------------------------------------------------------------------------
 The following is my conversation with Prof. Alessandro Verri.
@@ -78,9 +78,9 @@ The following is my conversation with Prof. Alessandro Verri.
 
 
 **G**: <em>How did you live your university years? Try to find three adjectives to describe them.</em><br/>
-**A**: Certainly they have been interesting to me. It was the first time in my life when I enjoyed studying. Somehow it was also the first moment in which I studied in a proper sense, not with the objective of answering questions or getting a good mark (so that my mum could tell me “Nooo, you didn’t get an 8!” [laughs]). Thereby, I studied alone and with much pleasure. There have been some topics which I studied and enjoyed a lot. My university years have also been passionate. However, I still remember that I used to suffer very much at the moment of the exam, which to me was a moment of pain, stress. I definitely felt better when I was done.
-G: Then, we can say your university years have been interesting, passionate, with the exceptions of the moments of exam.
-A: Yes, excluding the moments of exam when I used to suffer, in the sense that I couldn’t sleep, I was worried, not calm. I would have regretted a failure! I pondered them with a lot of meaning. Now this makes me smile, but at that time…
+**A**: Certainly they have been interesting to me. It was the first time in my life when I enjoyed studying. Somehow it was also the first moment in which I studied in a proper sense, not with the objective of answering questions or getting a good mark (so that my mum could tell me “Nooo, you didn’t get an 8!” [laughs]). Thereby, I studied alone and with much pleasure. There have been some topics which I studied and enjoyed a lot. My university years have also been passionate. However, I still remember that I used to suffer very much at the moment of the exam, which to me was a moment of pain, stress. I definitely felt better when I was done.<br/>
+**G**: <em>Then, we can say your university years have been interesting, passionate, with the exceptions of the moments of exam.</em><br/>
+**A**: Yes, excluding the moments of exam when I used to suffer, in the sense that I couldn’t sleep, I was worried, not calm. I would have regretted a failure! I pondered them with a lot of meaning. Now this makes me smile, but at that time…
 
 
 **G**: <em>How much weight did your study have with respect to your life outside the university?</em><br/>
