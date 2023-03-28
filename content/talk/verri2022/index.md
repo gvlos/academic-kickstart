@@ -73,7 +73,7 @@ Below you will find the English version of the interview. The original Italian v
 ----------------------------------------------------------------------------------------
 The following is my conversation with Prof. Alessandro Verri.
 
-**G**: _Why did you choose physics at the university?_<br/>
+**G**: <em>Why did you choose physics at the university?</em><br/>
 **A**: My desire was to study medicine. I very much liked physics as well as mathematics. But during high school my idea was to become a doctor. Physics classes used to start one month earlier compared to other courses. I attended the first lessons, made some friendships, enjoyed it and got through.
 
 
