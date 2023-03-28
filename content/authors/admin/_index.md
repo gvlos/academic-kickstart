@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior R&D Specialist
+role: MSc laureate
 
 # Organizations/Affiliations
 organizations:
-- name: RuleX Innovation Labs
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Junior R&D Specialist @ RuleX, Italy
+bio: MSc laureate
 
 interests:
 - Reinforcement learning
