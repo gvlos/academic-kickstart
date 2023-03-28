@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Gianvito Losapio
+title: Katherine Eaton
 
 # Username (this should match the folder name)
 authors:
@@ -10,28 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc laureate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: McMaster Ancient DNA Centre
+  url: "https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MSc laureate
+bio: I am a multidisciplinary researcher, bridging the gap between the sciences as a computational biologist, and the humanities as an anthropologist interested in infectious diseases.
 
 interests:
-- Reinforcement learning
-- Cognitive neuroscience
+- Anthropology
+- Bioinformatics
+- Infectious Disease
+- Digital Humanities
+- Software Development
 
 education:
   courses:
-  - course: M.S. in Computer Science
-    institution: University of Genoa
+  - course: PhD in Anthropology
+    institution: McMaster University
     year: 2022
-  - course: B.S. in Computer Science and Automation Engineering
-    institution: Polytechnic University of Bari
-    year: 2019
+  - course: BA in Anthropology
+    institution: University of Alberta
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,34 +43,32 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
+  link: 'mailto:ktmeaton@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
   icon_pack: fab
-  link: https://github.com/gvlos
+  link: https://twitter.com/ktmeaton
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=XswM5WcAAAAJ&hl=it&oi=ao
-- icon: linkedin
+  link: https://scholar.google.ca/citations?user=0Ksx4iwAAAAJ&hl=en
+- icon: github
   icon_pack: fab
-  link: https://www.linkedin.com/in/gianvito-losapio-686038197/
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+  link: https://github.com/ktmeaton
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ktmeaton@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Hi! I am currently hunting for a PhD project.
+Katherine Eaton is a PhD candidate at McMaster University and she studies the infectious disease “The Plague”. Her dissertation focuses on reconstructing the spread of this disease across the globe, using clinical samples and ancient DNA recovered from archaeological victims of ancient outbreaks.
 
-# My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms.
-
-# Previously, I was part of the [Machine Learning Genoa Center](https://malga.unige.it/). I worked as a master student on machine learning for high energy physics under the supervision of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/). Afterwards, I worked as a research fellow on reinforcement learning algorithms for studying animal behaviour in odor navigation tasks, supervised by [Agnese Seminara](http://www3.dicca.unige.it/aseminara/). 
-
-# I have been a Summer Student at [CERN](https://home.cern/), working with [Thomas Owen James](https://gitlab.cern.ch/tjames) and [Emilio Meschi](http://meschi.web.cern.ch/meschi/) on the [CMS](https://home.cern/science/experiments/cms) experiment. I also interned at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), working on deep learning for computer vision with [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it) and [Rosalia Maglietta](https://publications.cnr.it/authors/rosalia.maglietta).
+By investigating past and present incidents of the plague, her work contributes to a better understanding of which populations were affected, why it went extinct in certain geographic regions, and how it has managed to persist throughout human history.
