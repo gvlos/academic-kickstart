@@ -73,16 +73,22 @@ Below you will find the English version of the interview. The original Italian v
 ----------------------------------------------------------------------------------------
 The following is my conversation with Prof. Alessandro Verri.
 
-*G*: Why did you choose physics at the university?
-*A*: My desire was to study medicine. I very much liked physics as well as mathematics. But during high school my idea was to become a doctor. Physics classes used to start one month earlier compared to other courses. I attended the first lessons, made some friendships, enjoyed it and got through.
+**G**: Why did you choose physics at the university?
 
-G: How did you live your university years? Try to find three adjectives to describe them.
-A: Certainly they have been interesting to me. It was the first time in my life when I enjoyed studying. Somehow it was also the first moment in which I studied in a proper sense, not with the objective of answering questions or getting a good mark (so that my mum could tell me “Nooo, you didn’t get an 8!” [laughs]). Thereby, I studied alone and with much pleasure. There have been some topics which I studied and enjoyed a lot. My university years have also been passionate. However, I still remember that I used to suffer very much at the moment of the exam, which to me was a moment of pain, stress. I definitely felt better when I was done.
+**A**: My desire was to study medicine. I very much liked physics as well as mathematics. But during high school my idea was to become a doctor. Physics classes used to start one month earlier compared to other courses. I attended the first lessons, made some friendships, enjoyed it and got through.
+
+
+**G**: How did you live your university years? Try to find three adjectives to describe them.
+
+**A**: Certainly they have been interesting to me. It was the first time in my life when I enjoyed studying. Somehow it was also the first moment in which I studied in a proper sense, not with the objective of answering questions or getting a good mark (so that my mum could tell me “Nooo, you didn’t get an 8!” [laughs]). Thereby, I studied alone and with much pleasure. There have been some topics which I studied and enjoyed a lot. My university years have also been passionate. However, I still remember that I used to suffer very much at the moment of the exam, which to me was a moment of pain, stress. I definitely felt better when I was done.
 G: Then, we can say your university years have been interesting, passionate, with the exceptions of the moments of exam.
 A: Yes, excluding the moments of exam when I used to suffer, in the sense that I couldn’t sleep, I was worried, not calm. I would have regretted a failure! I pondered them with a lot of meaning. Now this makes me smile, but at that time…
 
-G: How much weight did your study have with respect to your life outside the university?
-A: [smiles] It was important! I prefer not to comment on other things I would have liked to do but didn’t manage to. Also because those are the typical things of a person aged twenty [laughs]. We can say that outside the university I had not the same success. On the other hand, I did pretty well in studying.
+
+
+
+**G**: How much weight did your study have with respect to your life outside the university?
+**A**: [smiles] It was important! I prefer not to comment on other things I would have liked to do but didn’t manage to. Also because those are the typical things of a person aged twenty [laughs]. We can say that outside the university I had not the same success. On the other hand, I did pretty well in studying.
 
 G: Now a question of projection on the present. If you had to enroll to the university today, would you choose computer science or again physics, or rather another thing?
 A: That’s a weird question I have to admit, because I was back to 18 years old perhaps I wouldn’t know.
