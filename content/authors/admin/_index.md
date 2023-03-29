@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc laureate
+role: MSc in Computer Science
 
 # Organizations/Affiliations
 organizations:
