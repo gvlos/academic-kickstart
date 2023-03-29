@@ -33,7 +33,7 @@ projects: []
 
 During my period at [MaLGa](https://malga.unige.it/), I had the pleasure to speak with professor [Alessandro Verri](https://person.dibris.unige.it/verri-alessandro/) about topics such as artificial intelligence, faith, consciousness.
 
-Below you will find the English version of the interview. The original Italian version is available as a pdf [here](AV_italiano.pdf) or as a podcast [here](https://soundcloud.com/gianvito97/intervista-al-professor-alessandro-verri?si=bcc14df205e34e26baac0cf55d7dcd52&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
+Below you will find the English version of the interview. The original Italian version is available as a pdf [here](AV_italiano.pdf) or as a podcast [here](https://on.soundcloud.com/gBSYV).
 
 ----------------------------------------------------------------------------------------
 The following is my conversation with Prof. Alessandro Verri.
