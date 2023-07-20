@@ -66,7 +66,7 @@ user_groups:
 
 Hi! I am currently part of the [RL lab](https://rl.airlab.deib.polimi.it/) at Politecnico di Milano, working on distributed reinforcement learning for industrial production plants. My supervisor is [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml).
 
-My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms.
+<!-- My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms. -->
 
 Previously, I worked with [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/) at the [Machine Learning Genoa Center](https://malga.unige.it/).
 
