@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc in Computer Science
+role: Research fellow @ Polimi
 
 # Organizations/Affiliations
 organizations:
@@ -64,10 +64,10 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am currently hunting for a PhD project.
+Hi! I am currently part of the [RL lab](https://rl.airlab.deib.polimi.it/) at Politecnico di Milano, working on distributed reinforcement learning for industrial production plants. My supervisor is [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml).
 
 My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms.
 
-Previously, I was part of the [Machine Learning Genoa Center](https://malga.unige.it/). I worked on machine learning for high energy physics under the supervision of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/). Afterwards, I worked on reinforcement learning for odor navigation, supervised by [Agnese Seminara](http://www3.dicca.unige.it/aseminara/). 
+Previously, I worked with [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/) at the [Machine Learning Genoa Center](https://malga.unige.it/).
 
-During the Master I was a Summer Student at [CERN](https://home.cern/), working with [Thomas Owen James](https://gitlab.cern.ch/tjames) and [Emilio Meschi](http://meschi.web.cern.ch/meschi/) on machine learning for scouting at the [CMS](https://home.cern/science/experiments/cms) experiment. During the Bachelor I interned at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), working on deep learning for computer vision with [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it) and [Rosalia Maglietta](https://publications.cnr.it/authors/rosalia.maglietta).
+During Graduate School I was Summer Student at [CERN](https://home.cern/), working with [Thomas Owen James](https://gitlab.cern.ch/tjames) and [Emilio Meschi](http://meschi.web.cern.ch/meschi/). I also interned at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), working with [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it) and [Rosalia Maglietta](https://publications.cnr.it/authors/rosalia.maglietta).
