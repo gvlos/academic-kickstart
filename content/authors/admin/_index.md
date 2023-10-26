@@ -70,6 +70,8 @@ Hi! I am 26 and have been doing research for more than 4 years now. I am current
 
 Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (also at [MIT](https://cbmm.mit.edu/about/people/rosasco)) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
 
-Intelligence to me is just a computational problem ([Humanity](https://gvlosapio.netlify.app/files/cv.pdf) and [RLBrain](https://gvlosapio.netlify.app/files/cv.pdf)). I really enjoy discussing most pressing questions in science and technology. I recently published a special [interview](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk).
+Intelligence to me is just a computational problem (have a look at [Humanity](https://gvlosapio.netlify.app/files/cv.pdf) and [RLBrain](https://gvlosapio.netlify.app/files/cv.pdf)). I recently published a special [interview](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk).
+
+<!--I really enjoy discussing most pressing questions in science and technology.-->
 
 During Graduate School I interned at [CERN](https://home.cern/) and and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
