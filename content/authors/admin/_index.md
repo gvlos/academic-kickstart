@@ -74,4 +74,4 @@ Intelligence to me is just a computational problem (have a look at [Humanity](ht
 
 <!--I really enjoy discussing most pressing questions in science and technology.-->
 
-During Graduate School I interned at [CERN](https://home.cern/) and and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
+During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
