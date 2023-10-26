@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research fellow @ Polimi
+role: Artificial I.
 
 # Organizations/Affiliations
 organizations:
@@ -64,10 +64,12 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am currently part of the [RL lab](https://rl.airlab.deib.polimi.it/) at Politecnico di Milano, working on distributed reinforcement learning for industrial production plants. My supervisor is [Marcello Restelli](https://restelli.faculty.polimi.it/MyWebSite/index.shtml).
+Hi! I am 26 and have been doing research for more than 4 years now. I am currently part of [Airlab](https://airlab.deib.polimi.it/), working on Reinforcement Learning with [Marcello Restelli](https://rl.airlab.deib.polimi.it/). 
 
 <!-- My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms. -->
 
-Previously, I worked with [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/) at the [Machine Learning Genoa Center](https://malga.unige.it/).
+Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/)(also at [MIT](https://cbmm.mit.edu/about/people/rosasco)) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/) 
 
-During Graduate School I was a summer student at [CERN](https://home.cern/), working with [Thomas Owen James](https://gitlab.cern.ch/tjames) and [Emilio Meschi](http://meschi.web.cern.ch/meschi/). I also interned at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9), working with [Vito Renò](https://scholar.google.it/citations?user=K4zb2Q4AAAAJ&hl=it) and [Rosalia Maglietta](https://publications.cnr.it/authors/rosalia.maglietta).
+Intelligence to me is just a computational problem ([Humanity](static/files/cv.pdf) and [RLBrain](static/files/cv.pdf)). I really enjoy discussing most pressing questions in science and technology. I recently published a special [interview](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk).
+
+During Graduate School I was also at [CERN](https://home.cern/) and and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
