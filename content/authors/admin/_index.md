@@ -64,11 +64,11 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am 26 and have been doing research for more than 4 years now. I am currently part of [Airlab](https://airlab.deib.polimi.it/), working on Reinforcement Learning with [Marcello Restelli](https://rl.airlab.deib.polimi.it/). 
+Hi! I am 26 and have been doing research for more than 4 years now. I am currently part of [AIRLAB](https://airlab.deib.polimi.it/), working on Reinforcement Learning with [Marcello Restelli](https://rl.airlab.deib.polimi.it/). 
 
 <!-- My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms. -->
 
-Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (also at [MIT](https://cbmm.mit.edu/about/people/rosasco)) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/) 
+Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (also at [MIT](https://cbmm.mit.edu/about/people/rosasco)) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
 
 Intelligence to me is just a computational problem ([Humanity](https://gvlosapio.netlify.app/files/cv.pdf) and [RLBrain](https://gvlosapio.netlify.app/files/cv.pdf)). I really enjoy discussing most pressing questions in science and technology. I recently published a special [interview](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk).
 
