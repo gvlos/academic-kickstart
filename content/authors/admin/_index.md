@@ -64,8 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am 26 and have been doing research for more than 4 years now. I am currently part of [AIRLAB](https://airlab.deib.polimi.it/), working on Reinforcement Learning with [Marcello Restelli](https://rl.airlab.deib.polimi.it/) (consistently well-represented at NeurIPS, ICML). 
-repr
+Hi! I am 26 and have been doing research for more than 4 years now. I am currently part of [AIRLAB](https://airlab.deib.polimi.it/), working on Reinforcement Learning with [Marcello Restelli](https://rl.airlab.deib.polimi.it/) (consistently well-represented at NeurIPS, ICML).
 <!-- My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms. -->
 
 Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (also at [MIT](https://cbmm.mit.edu/about/people/rosasco)) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
