@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: M.S. in Computer Science
+  - course: M.S. in Artificial Intelligence
     institution: University of Genoa
     year: 2022
   - course: B.S. in Computer Science and Automation Engineering
