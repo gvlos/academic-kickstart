@@ -71,7 +71,7 @@ Hi! I am 26 and have been doing 4+ years of research in machine learning with >6
 
 Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (also at [MIT](https://cbmm.mit.edu/about/people/rosasco)) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
 
-:brain:  Intelligence  :brain: to me is just a computational problem (you can check out my [notes](https://gvlosapio.netlify.app/files/cms_eng.pdf) and have a look at [Humanity](https://gvlosapio.netlify.app/files/Humanity_mod.pdf) and [RLBrain](https://gvlosapio.netlify.app/files/RLBrain.pdf)). I recently published a special [interview](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk).
+:brain:  Intelligence  :brain: to me is just a computational problem (check out my [notes](https://gvlosapio.netlify.app/files/cms_eng.pdf) and have a look at [Humanity](https://gvlosapio.netlify.app/files/Humanity_mod.pdf) and [RLBrain](https://gvlosapio.netlify.app/files/RLBrain.pdf)). I recently published a special [interview](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk).
 
 <!--I really enjoy discussing most pressing questions in science and technology.-->
 
