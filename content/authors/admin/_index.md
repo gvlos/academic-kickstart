@@ -65,7 +65,7 @@ user_groups:
 ---
 
 Hi! I am 26 and have been doing 4+ years of research in machine learning with >6 publications. 
-I am currently a first-year PhD student at [Politecnico di Milano](https://www.polimi.it/), working on reinforcement learning in the lab of [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en) (consistently well-represented at NeurIPS, ICML). My PhD is funded by the [AI4REALNET](https://cordis.europa.eu/project/id/101119527) project.
+I am currently a first-year PhD student at [Politecnico di Milano](https://www.polimi.it/), working on reinforcement learning in [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en)'s lab (consistently well-represented at NeurIPS, ICML). My PhD is funded by the [AI4REALNET](https://cordis.europa.eu/project/id/101119527) project.
 <!-- I am now a first-year PhD student inside the : using RL to improve electricity and railway networks, air traffic control. -->
 <!-- My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms. -->
 
