@@ -8,7 +8,7 @@
 title = "Gianvito Losapio"
 
 # The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://gvlosapio.netlify.com/`.
+# End your URL with a `/` trailing slash, e.g. `https://gvlosapio.netlify.app/`.
 baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
@@ -60,8 +60,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     endLevel = 3
 
 [imaging]
-  resampleFilter = "lanczos"
-  quality = 90
+  quality = 100
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
