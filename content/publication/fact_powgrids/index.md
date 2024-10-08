@@ -35,7 +35,7 @@ url_pdf: 'https://arxiv.org/abs/2409.04467'
 # url_dataset: '#'
 url_poster: 'https://gvlosapio.netlify.app/publication/fact_powgrids/ECML_poster.pdf'
 # url_project: ''
-url_slides: 'https://gvlosapio.netlify.app/publication/fact_powgrids/ECML_pres.pdf'
+url_slides: 'https://gvlosapio.netlify.app/publication/fact_powgrids/ECML_presentation.pdf'
 # url_source: '#'
 # url_video: 'https://weconf.eu/imeko-metrosea-2020/presentation/lightweight-and-efficient-convolutional-neural-networks-for-recognition-of-dolphin-dorsal-fins'
 
