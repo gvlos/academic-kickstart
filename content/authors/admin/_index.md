@@ -79,4 +79,4 @@ Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/
 
 <!--I really enjoy discussing most pressing questions in science and technology.-->
 
-During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9). I also attended two editions of the [M2L school](https://www.m2lschool.org/) (sponsored by [Google DeepMind](https://deepmind.google/)) presenting two posters. Recently also [Oxford ML school](https://www.oxfordml.school/).
+During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9). I also attended two editions of the [M2L school](https://www.m2lschool.org/) (sponsored by [Google DeepMind](https://deepmind.google/)) presenting two posters.
