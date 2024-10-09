@@ -1,14 +1,13 @@
 ---
 title: "Talk + poster @ ECML-PKDD 2024"
-# subtitle: Phylogenetics of “resurrecting” disease foci
 event: European Conference on Machine Learning
 
 location: Vilnius
-# address:
-#   city: Hamilton
-#   region: 'ON'
-#   postcode: 'L8S 4E8'
-#   country: Canada
+address:
+  city:
+  region:
+  postcode:
+  country:
 
 # summary:
 
@@ -65,3 +64,4 @@ projects: []
 
 # Enable math on this page?
 math: false
+---
