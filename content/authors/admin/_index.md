@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: M.S. in Artificial Intelligence
-    institution: University of Genoa
+    # institution: University of Genoa
     year: 2022
   - course: B.S. in Computer Science and Automation Engineering
-    institution: Polytechnic University of Bari
+    # institution: Polytechnic University of Bari
     year: 2019
 
 # Social/Academic Networking
