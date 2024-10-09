@@ -22,7 +22,7 @@ bio: MSc laureate
 
 interests:
 - Reinforcement learning
-- Cognitive neuroscience
+- Language and evolution
 
 education:
   courses:
