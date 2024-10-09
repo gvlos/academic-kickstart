@@ -14,7 +14,7 @@ doi: "10.5281/zenodo.5536345"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Zenodo"
+publication: "CERN Technical Report, Zenodo"
 # publication_short: In *Electronics 2020, 9, 758*
 
 abstract: "The Level 1 (L1) trigger at CMS uses coarse-grained information to search for signatures of interesting physics. L1 scouting is a new paradigm for data collection at CMS which could help in the early identification of promising potential signals, independently of any trigger selection bias. It will for the first time enable the reading out of trigger objects at the full collision rate (40 MHz), in order to perform studies and take measurements not possible within the constraints of the 100 KHz Level 1 accept rate. The objective of this project is to investigate efficient machine learning algorithms with fast inference time for the L1 scouting system. Deep learning models have been compared to another class of machine learning models – namely kernel methods – as viable solutions to be implemented on FPGA devices. Several tests have been performed to compare accuracy on the re-calibration of muon track parameters. An analysis of the floating-point operations required by both models has been carried out. Preliminary tests have also been conducted for the re-calibration of jet transverse momentum."
