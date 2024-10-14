@@ -2,7 +2,7 @@
 title: "Oxford Machine Learning summer school"
 event: OxML 2024
 
-location: University of Oxford
+location: Oxford (UK)
 address:
   city:
   region:
