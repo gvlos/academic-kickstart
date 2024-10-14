@@ -1,5 +1,5 @@
 ---
-title: "Participation @ UCL NeuroAI annual event"
+title: "UCL NeuroAI annual event"
 event: 
 
 location: London (UK)

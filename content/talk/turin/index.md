@@ -1,5 +1,5 @@
 ---
-title: "Participation @ Italian Tech Week"
+title: "Italian Tech Week"
 event: 
 
 location: Turin (Italy)

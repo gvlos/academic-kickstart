@@ -1,5 +1,5 @@
 ---
-title: "Participation @ AI4REALNET kick-off meeting"
+title: "AI4REALNET kick-off meeting"
 event: 
 
 location: Porto (Portugal)

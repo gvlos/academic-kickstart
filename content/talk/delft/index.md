@@ -1,5 +1,5 @@
 ---
-title: "Participation @ AI4REALNET annual meeting"
+title: "AI4REALNET annual meeting"
 event: 
 
 location: Delft (the Netherlands)
