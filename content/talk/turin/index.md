@@ -1,8 +1,8 @@
 ---
-title: "Talk + poster @ ECML-PKDD 2024"
-event: European Conference on Machine Learning
+title: "Participation @ Italian Tech Week"
+event: 
 
-location: Vilnius (Lithuania)
+location: Turin (Italy)
 address:
   city:
   region:
@@ -14,7 +14,7 @@ address:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-09-09"
+date: "2024-09-25"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -45,8 +45,8 @@ links:
 #  url: https://twitter.com/ktmeaton
 url_code: ""
 url_pdf: ""
-url_poster: 'https://gvlosapio.netlify.app/publication/fact_powgrids/ECML_poster.pdf'
-url_slides: 'https://gvlosapio.netlify.app/publication/fact_powgrids/ECML_presentation.pdf'
+url_poster: ""
+url_slides: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
