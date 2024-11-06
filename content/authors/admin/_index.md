@@ -71,7 +71,7 @@ I am currently a first-year PhD student at [Politecnico di Milano](https://www.p
 
 Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (also at [MIT](https://cbmm.mit.edu/about/people/rosasco)) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
 
-:brain:  Intelligence  :brain: to me is just a computational problem. I am working on a formal theory out of this idea. Reach out if you are interested, I am looking for collaborators!
+:brain:  Intelligence  :brain: to me is related to language and evolution. I am working on a formal theory out of this idea. Reach out if you are interested, I am looking for collaborators!
 
 <!-- Check out this recent [conversation](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk). -->
 

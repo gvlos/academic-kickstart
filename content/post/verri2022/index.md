@@ -33,7 +33,7 @@ projects: []
 
 During my period at [MaLGa](https://malga.unige.it/), I had the pleasure to speak with professor [Alessandro Verri](https://person.dibris.unige.it/verri-alessandro/) about topics such as artificial intelligence, faith, consciousness.
 
-Beyond his exceptional career, his humanity has impressed me ever since the first time I met him in his office (he invited me because I wanted to ask some questions about the new Master in AI that was starting in Genoa later that year, 2019). Before leaving Genoa, I really desired to ask him some questions. As usual, he immediately made me feel at ease and after the conversation, to my delight, he was happy about it.
+Beyond his exceptional career, his humanity has impressed me ever since the first time I met him in his office (he invited me because I wanted to ask some questions about the new Master in AI that was starting later that year, 2019). Before leaving Genoa, I really desired to ask him some personal questions. As usual, he immediately made me feel at ease and in the end we were happy about our conversation.
 
 Below you will find the English version of the interview. The original Italian version is available as a pdf [here](AV_italiano.pdf) or as a podcast [here](https://on.soundcloud.com/gBSYV).
 
