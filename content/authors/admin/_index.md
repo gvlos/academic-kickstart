@@ -71,7 +71,7 @@ I am currently a first-year PhD student at [Politecnico di Milano](https://www.p
 
 Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and lately [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
 
-:brain:  Intelligence  :brain: to me is strictly connected to language and evolution. Reach out if you are interested to work on a formal theory about that, I am looking for collaborators!
+:brain:  Intelligence to me is strictly connected to language and evolution. Reach out if you are interested to work on a formal theory about that, I am looking for collaborators!
 
 <!-- Check out this recent [conversation](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk). -->
 
