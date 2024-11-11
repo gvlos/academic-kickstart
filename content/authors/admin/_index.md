@@ -81,4 +81,4 @@ Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/
 
 During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
 
-:bulb: Good science is like good life (or viceversa). A few essential ingredients.
+:bulb: </em>Good science is like good life (or viceversa). A few essential ingredients</em>
