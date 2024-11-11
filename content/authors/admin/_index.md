@@ -65,13 +65,13 @@ user_groups:
 ---
 
 Hi! I am 27 and have been into AI research for 5+ years now. 
-I am currently a first-year PhD student at [Politecnico di Milano](https://www.polimi.it/), working on reinforcement learning in [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en)'s lab (consistently well-represented at NeurIPS, ICML). My PhD is funded by the [AI4REALNET](https://cordis.europa.eu/project/id/101119527) project.
+I am currently a first-year PhD student at [Politecnico di Milano](https://www.polimi.it/), working on reinforcement learning in [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en)'s lab. My PhD is funded by the [AI4REALNET](https://cordis.europa.eu/project/id/101119527) project.
 <!-- I am now a first-year PhD student inside the : using RL to improve electricity and railway networks, air traffic control. -->
 <!-- My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms. -->
 
-Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (also at [MIT](https://cbmm.mit.edu/about/people/rosasco)) and [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
+Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and lately [Agnese Seminara](http://www3.dicca.unige.it/aseminara/).
 
-:brain:  Intelligence  :brain: to me is related to language and evolution. I am working on a formal theory out of this idea. Reach out if you are interested, I am looking for collaborators!
+:brain:  Intelligence  :brain: to me is strictly connected to language and evolution. Reach out if you are interested to work on a formal theory about that, I am looking for collaborators!
 
 <!-- Check out this recent [conversation](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk). -->
 
@@ -79,4 +79,6 @@ Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/
 
 <!--I really enjoy discussing most pressing questions in science and technology.-->
 
-During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9). I also attended two editions of the [M2L school](https://www.m2lschool.org/) (sponsored by [Google DeepMind](https://deepmind.google/)) presenting two posters.
+During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
+
+:bulb: Good science is like good life (or viceversa). A few essential ingredients.
