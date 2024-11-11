@@ -69,7 +69,7 @@ I am currently a first-year PhD student at [Politecnico di Milano](https://www.p
 <!-- I am now a first-year PhD student inside the : using RL to improve electricity and railway networks, air traffic control. -->
 <!-- My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms. -->
 
-Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and lately [Agnese Seminara](http://www3.dicca.unige.it/aseminara/). During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
+Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and lately [Agnese Seminara](https://scholar.google.com/citations?user=OKTmpMQAAAAJ&hl=it&oi=ao). During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
 
 :brain: Intelligence :brain: to me is strictly connected to language and evolution. I am working on a formal theory out of this idea. Reach out if you are interested, I am looking for collaborators!
 
