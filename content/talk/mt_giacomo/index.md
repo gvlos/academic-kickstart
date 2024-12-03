@@ -19,7 +19,7 @@ date: "2024-12-11"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2024-12-11"
+publishDate: "2024-12-02"
 
 authors:
 - Gianvito Losapio
