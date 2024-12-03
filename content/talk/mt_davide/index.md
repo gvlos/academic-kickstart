@@ -1,6 +1,6 @@
 ---
-title: "Master Thesis co-supervision"
-event: European Conference on Machine Learning
+title: "1st Master Thesis co-supervision"
+event: Politecnico di Milano
 
 location:
 address:
