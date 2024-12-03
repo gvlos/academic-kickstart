@@ -67,3 +67,7 @@ math: false
 ---
 
 Master student: Davide Beretta
+
+Thesis: [pdf](https://gvlosapio.netlify.app/talk/mt_davide/2024_10_Beretta_thesis.pdf)
+
+Executive summary: [pdf](https://gvlosapio.netlify.app/talk/mt_davide/Beretta_Executive_Summary.pdf)
