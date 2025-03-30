@@ -71,7 +71,7 @@ I am currently a research fellow at [Politecnico di Milano](https://www.polimi.i
 
 Previously, I was at the [Machine Learning Genoa Center](https://malga.unige.it/) in the group of [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and lately [Agnese Seminara](https://scholar.google.com/citations?user=OKTmpMQAAAAJ&hl=it&oi=ao). During formative years I interned at [CERN](https://home.cern/) and at the [National Research Council of Italy](https://www.stiima.cnr.it/en/index.php?sez=9).
 
-I am passionate about the problem of :brain: intelligence :brain:
+:brain: Intelligence :brain: is my favourite scientific problem!
 <!-- :brain: Intelligence :brain: to me is strictly connected to language and evolution. I am working on a formal theory out of this idea. Reach out if you are interested, I am looking for collaborators!-->
 
 <!-- Check out this recent [conversation](https://www.linkedin.com/posts/malga-machine-learning-genoa-center_facultyspotlight-physics-ai-activity-7048632972110880768-3oEk). -->
