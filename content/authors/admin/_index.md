@@ -64,8 +64,8 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am 27 and have been into AI research for 5+ years now. 
-I am currently a research fellow at [Politecnico di Milano](https://www.polimi.it/), working on reinforcement learning in [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en)'s lab. My research is funded by the [AI4REALNET](https://cordis.europa.eu/project/id/101119527) project.
+Hi! I am 28 and have been into AI research for 6+ years now. 
+I am currently a PhD student at [Politecnico di Milano](https://www.polimi.it/), working on reinforcement learning in [Marcello Restelli](https://scholar.google.com/citations?user=xdgxRiEAAAAJ&hl=en)'s lab. My research is funded by the [AI4REALNET](https://cordis.europa.eu/project/id/101119527) project.
 <!-- I am now a first-year PhD student inside the : using RL to improve electricity and railway networks, air traffic control. -->
 <!-- My research ambition is to use deep reinforcement learning to address fundamental questions in cognitive neuroscience and develop smarter artificial intelligence algorithms. -->
 
