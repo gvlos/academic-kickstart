@@ -1,5 +1,5 @@
 ---
-title: "Power Grid Control with Graph-Based Distributed Reinforcement Learning}"
+title: "Power Grid Control with Graph-Based Distributed Reinforcement Learning"
 authors: ""
 date: "2025-09-03T00:00:00Z"
 doi: "10.48550/arXiv.2509.02861"
