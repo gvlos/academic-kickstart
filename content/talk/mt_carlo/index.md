@@ -44,7 +44,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/ktmeaton
 url_code: ""
-url_pdf: 'https://gvlosapio.netlify.app/talk/mt_davide/2025_07_Fabrizio_Tesi_01.pdf'
+url_pdf: 'https://gvlosapio.netlify.app/talk/mt_carlo/2025_07_Fabrizio_Tesi_01.pdf'
 url_poster: ""
 url_slides: ""
 
@@ -68,6 +68,6 @@ math: false
 
 Master student: Carlo Fabrizio
 
-Thesis: [pdf](https://gvlosapio.netlify.app/talk/mt_davide/2025_07_Fabrizio_Tesi_01.pdf)
+Thesis: [pdf](https://gvlosapio.netlify.app/talk/mt_carlo/2025_07_Fabrizio_Tesi_01.pdf)
 
-Executive summary: [pdf](https://gvlosapio.netlify.app/talk/mt_davide/2025_07_Fabrizio_Executive_Summary_02.pdf)
+Executive summary: [pdf](https://gvlosapio.netlify.app/talk/mt_carlo/2025_07_Fabrizio_Executive_Summary_02.pdf)
